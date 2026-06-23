@@ -286,15 +286,3 @@ Please also cite the original UNSW-NB15 reference (Moustafa, N.; Slay, J.
 MilCIS 2015).
 
 ---
-
-## 11. License
-
-*[Specify a license, e.g. MIT for the code. MDPI articles are published under
-CC BY 4.0; supplementary code is commonly released under MIT or a compatible
-open-source license. Add a `LICENSE` file accordingly.]*
-
----
-
-## 12. Contact
-
-*[Corresponding author name and email]*
